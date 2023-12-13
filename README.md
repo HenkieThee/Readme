@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henkiethee&label=Profile%20views&color=0e75b6&style=flat" alt="henkiethee" /> </p>
 
-- 📫 How to reach me **Discord: HenkieThee**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  **Discord: HenkieThee**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
